@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "regions": ["all"],
+    "regions": ["lax1"],
     "name": "glare",
     "alias": "glare.now.sh",
     "builds": [
